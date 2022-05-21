@@ -1,2 +1,5 @@
 # java_document
-serveral java demo 
+包含部分java基础知识
+
+
+
